@@ -1,4 +1,9 @@
-database/
 *.db
 mlflow.db
 *.sqlite
+database/
+
+# MLflow database
+database/
+*.db
+*.sqlite*
