@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/712f27f4295c4ab0b94b796bc5d616b9/artifacts
+end_time: 1763518111423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 712f27f4295c4ab0b94b796bc5d616b9
+run_name: masked-frog-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763518107422
+status: 4
+tags: []
+user_id: samir

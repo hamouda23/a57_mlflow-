@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d959859adfe2451f8504dde6b68d210e/artifacts
+end_time: 1763523760078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d959859adfe2451f8504dde6b68d210e
+run_name: gentle-roo-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763523757071
+status: 4
+tags: []
+user_id: samir

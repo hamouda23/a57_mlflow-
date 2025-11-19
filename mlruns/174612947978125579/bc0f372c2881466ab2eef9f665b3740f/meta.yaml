@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/174612947978125579/bc0f372c2881466ab2eef9f665b3740f/artifacts
+end_time: 1763524107047
+entry_point_name: ''
+experiment_id: '174612947978125579'
+lifecycle_stage: active
+run_id: bc0f372c2881466ab2eef9f665b3740f
+run_name: rare-gull-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763524106696
+status: 3
+tags: []
+user_id: samir

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/119572c428fb440d9b298383f421f49a/artifacts
+end_time: 1763518287600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 119572c428fb440d9b298383f421f49a
+run_name: dashing-snail-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763518284405
+status: 4
+tags: []
+user_id: samir

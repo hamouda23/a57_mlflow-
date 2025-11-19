@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "/home/samir/miniconda3/envs/ia_env/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "args": ["-c", "source ~/.bashrc && conda activate ia_env && exec bash"]
+        }
+    }
+}
