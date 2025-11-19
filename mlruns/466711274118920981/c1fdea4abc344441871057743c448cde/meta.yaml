@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/samir/ecosystemAI/mlflow-projet-3/mlruns/466711274118920981/c1fdea4abc344441871057743c448cde/artifacts
+end_time: 1763525915926
+entry_point_name: ''
+experiment_id: '466711274118920981'
+lifecycle_stage: active
+run_id: c1fdea4abc344441871057743c448cde
+run_name: agreeable-newt-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763525914570
+status: 3
+tags: []
+user_id: samir

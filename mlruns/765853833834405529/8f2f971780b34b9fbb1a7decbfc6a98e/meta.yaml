@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/samir/ecosystemAI/mlflow-projet-3/mlruns/765853833834405529/8f2f971780b34b9fbb1a7decbfc6a98e/artifacts
+end_time: 1763526789881
+entry_point_name: ''
+experiment_id: '765853833834405529'
+lifecycle_stage: active
+run_id: 8f2f971780b34b9fbb1a7decbfc6a98e
+run_name: random_forest_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763526786409
+status: 3
+tags: []
+user_id: samir

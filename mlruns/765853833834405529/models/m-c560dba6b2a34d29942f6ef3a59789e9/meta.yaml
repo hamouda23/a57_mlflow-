@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/samir/ecosystemAI/mlflow-projet-3/mlruns/765853833834405529/models/m-c560dba6b2a34d29942f6ef3a59789e9/artifacts
+creation_timestamp: 1763526787343
+experiment_id: '765853833834405529'
+last_updated_timestamp: 1763526789806
+model_id: m-c560dba6b2a34d29942f6ef3a59789e9
+model_type: null
+name: model
+source_run_id: 8f2f971780b34b9fbb1a7decbfc6a98e
+status: 2
+status_message: null

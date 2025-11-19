@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/samir/ecosystemAI/mlflow-projet-3/mlruns/466711274118920981/9388ff2cef224cdcb21911a759ecd6a9/artifacts
+end_time: 1763525606385
+entry_point_name: ''
+experiment_id: '466711274118920981'
+lifecycle_stage: active
+run_id: 9388ff2cef224cdcb21911a759ecd6a9
+run_name: honorable-bear-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763525605569
+status: 3
+tags: []
+user_id: samir
