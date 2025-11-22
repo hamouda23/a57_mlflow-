@@ -3,6 +3,7 @@ mlflow.db
 *.sqlite
 database/
 test1.py
+red-wine-quality.csv
 # MLflow database
 database/
 *.db
