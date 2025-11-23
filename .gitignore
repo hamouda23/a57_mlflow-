@@ -3,6 +3,9 @@ mlflow.db
 *.sqlite
 database/
 test1.py
+train.py
+mlruns/
+mlartifacts/
 red-wine-quality.csv
 # MLflow database
 database/
