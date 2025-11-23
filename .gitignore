@@ -4,6 +4,7 @@ mlflow.db
 database/
 test1.py
 train.py
+test_sans_mlflow.py
 mlruns/
 mlartifacts/
 red-wine-quality.csv
