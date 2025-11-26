@@ -1,5 +1,5 @@
 pandas
 numpy
 scikit-learn
-mlflow
-psycopg2-binary>=2.9.0
+mlflow==2.13.0
+psycopg2-binary>=2.9.9
